@@ -9,11 +9,15 @@
 
 **Features:**
       
-    *From Scratch Implementation*: Every key component, including multi-head attention, position encoding, and feedforward networks, is implemented manually to showcase the architecture.
-    *Custom Training Loop*: Includes a custom pipeline for training the model on your dataset.
-    *Text Tokenization*: Uses the tiktoken library for efficient tokenization.
-    *Configurable Hyperparameters*: Easily adjust model dimensions, number of attention heads, context length, and more.
-    *Scalable*: Supports training on both GPU and CPU.
+    From Scratch Implementation: Every key component, including multi-head attention, position encoding, and feedforward networks, is implemented manually to showcase the architecture.
+    
+    Custom Training Loop: Includes a custom pipeline for training the model on your dataset.
+    
+    Text Tokenization: Uses the tiktoken library for efficient tokenization.
+    
+    Configurable Hyperparameters: Easily adjust model dimensions, number of attention heads, context length, and more.
+    
+    Scalable: Supports training on both GPU and CPU.
 
 
 **How It Works**
